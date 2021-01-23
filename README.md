@@ -3,6 +3,7 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/davidramos-js/)
+[![image](https://img.shields.io/badge/Gmail-D14836)](mailto:david-ramos123@hotmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F)](https://www.instagram.com/davidr.js/)
 
 [
