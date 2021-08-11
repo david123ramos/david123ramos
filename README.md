@@ -12,7 +12,7 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david123ramos&layout=compact&theme=dracula&hide=pascal)](https://github.com/david123ramos/)
 
 
-- 💪 Working on a lot of web projects at [@Blue](https://www.instagram.com/blue.assessoria/);
+- 💪 Working on a lot of web projects at [@Tecnosolve](http://www.tecnosolve.com/);
 - 🧠 Learning about React Native and Aspect Oriented Programming;
 - 🗣 Let’s talk about Javascript, Java, Python and Desgin Patterns, shall we? 
 
