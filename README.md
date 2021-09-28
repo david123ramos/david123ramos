@@ -13,8 +13,8 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 
 
 - 💪 Working on a lot of web projects at [@Tecnosolve](http://www.tecnosolve.com/);
-- 🧠 Learning about React Native and Aspect Oriented Programming;
-- 🗣 Let’s talk about Javascript, Java, Python and Desgin Patterns, shall we? 
+- 🧠 Learning about Android app development, neural nets and webassembly;
+- 🗣 Let’s talk about Javascript, Java, AI and Desgin Patterns, shall we? 
 
 
 
