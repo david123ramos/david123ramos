@@ -12,7 +12,7 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david123ramos&layout=compact&theme=dracula&hide=pascal)](https://github.com/david123ramos/)
 
 
-- 💪 Working on a lot of web projects at [@Tecnosolve](https://tds.company/);
+- 💪 Working on Strateegia Squad at [@TDS Company](https://tds.company/);
 - 🧠 Learning about Android app development, neural nets and webassembly;
 - 🗣 Let’s talk about Javascript, Java, AI and Desgin Patterns, shall we? 
 
@@ -20,18 +20,3 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 
 **git commit -m "🦅 Dream bigger"**
 
-
-<!--
-**david123ramos/david123ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
