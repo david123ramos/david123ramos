@@ -12,7 +12,7 @@ Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david123ramos&layout=compact&theme=dracula&hide=pascal)](https://github.com/david123ramos/)
 
 
-- 💪 Working on Strateegia Squad at [@TDS Company](https://tds.company/);
+- 💪 Working at [@IBM](https://www.ibm.com/br-pt);
 - 🧠 Learning about Android app development, neural nets and webassembly;
 - 🗣 Let’s talk about Javascript, Java, AI and Desgin Patterns, shall we? 
 
