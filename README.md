@@ -1,5 +1,5 @@
 # David Ramos 🤘!
-Brazilian web developer, coffe lover and curious in his spare time 👨‍💻. <br>
+Brazilian software engineer, coffe lover and curious in his spare time 👨‍💻. <br>
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/davidramos-js/)
